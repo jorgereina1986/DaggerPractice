@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DaggerPractice</string>
+
+    // app title
+    <string name="dog_base_url">https://dog.ceo/</string>
 </resources>
